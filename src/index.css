@@ -1,3 +1,7 @@
+bodyLL-webkit-scrollbar{
+  display: none;
+}
+
 *{
   margin: 0;
 }
